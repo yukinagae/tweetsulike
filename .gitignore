@@ -1,0 +1,6 @@
+# poetry
+.python-version
+poetry.lock
+
+# secret env variables
+.env
