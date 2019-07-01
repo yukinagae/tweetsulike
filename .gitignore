@@ -4,3 +4,6 @@ poetry.lock
 
 # secret env variables
 .env
+
+# cache
+__pycache__/

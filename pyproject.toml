@@ -10,6 +10,7 @@ python = "^3.7"
 tweepy = "^3.7"
 pip = "^19.1"
 python-dotenv = "^0.10.3"
+Flask = "^1.0"
 
 [tool.poetry.dev-dependencies]
 
